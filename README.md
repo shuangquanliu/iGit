@@ -1,33 +1,33 @@
 # icode-js
 
 <p>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js">
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git">
     <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/wandou-cc/icode-js">
   </a>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js">
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git">
       <img src="https://img.shields.io/github/stars/wandou-cc/icode-js?style=flat-square"/>
   </a>
   <br >
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js">
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git">
     <img src="https://hits.b3log.org/wandou-cc/icode-js.svg">
   </a>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js">
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git">
     <img src="https://img.shields.io/github/commit-activity/y/wandou-cc/icode-js?style=flat-square"/>
   </a>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js">
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git">
      <img src="https://img.shields.io/github/last-commit/wandou-cc/icode-js?style=flat-square"/>
   </a>
   <br>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js/issues">
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git/issues">
     <img src="https://img.shields.io/github/issues/wandou-cc/icode-js?style=flat-square"/>
   </a>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js/issues?q=is%3Aissue+is%3Aclosed">
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git/issues?q=is%3Aissue+is%3Aclosed">
       <img src="https://img.shields.io/github/issues-closed/wandou-cc/icode-js?style=flat-square"/>
   </a>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js/pulls">
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git/pulls">
       <img src="https://img.shields.io/github/issues-pr/wandou-cc/icode-js?style=flat-square"/>
   </a>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js">
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git">
     <img src="https://img.shields.io/github/watchers/wandou-cc/icode-js?style=flat-square"/>
   </a>
 </p>
