@@ -1,34 +1,34 @@
-# icode-js
+# iGit
 
 <p>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js">
-    <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/wandou-cc/icode-js">
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git">
+    <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/shuangquanliu/iGit">
   </a>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js">
-      <img src="https://img.shields.io/github/stars/wandou-cc/icode-js?style=flat-square"/>
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git">
+      <img src="https://img.shields.io/github/stars/shuangquanliu/iGit?style=flat-square"/>
   </a>
   <br >
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js">
-    <img src="https://hits.b3log.org/wandou-cc/icode-js.svg">
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git">
+    <img src="https://hits.b3log.org/shuangquanliu/iGit.svg">
   </a>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js">
-    <img src="https://img.shields.io/github/commit-activity/y/wandou-cc/icode-js?style=flat-square"/>
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git">
+    <img src="https://img.shields.io/github/commit-activity/y/shuangquanliu/iGit?style=flat-square"/>
   </a>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js">
-     <img src="https://img.shields.io/github/last-commit/wandou-cc/icode-js?style=flat-square"/>
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git">
+     <img src="https://img.shields.io/github/last-commit/shuangquanliu/iGit?style=flat-square"/>
   </a>
   <br>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js/issues">
-    <img src="https://img.shields.io/github/issues/wandou-cc/icode-js?style=flat-square"/>
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git/issues">
+    <img src="https://img.shields.io/github/issues/shuangquanliu/iGit?style=flat-square"/>
   </a>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js/issues?q=is%3Aissue+is%3Aclosed">
-      <img src="https://img.shields.io/github/issues-closed/wandou-cc/icode-js?style=flat-square"/>
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git/issues?q=is%3Aissue+is%3Aclosed">
+      <img src="https://img.shields.io/github/issues-closed/shuangquanliu/iGit?style=flat-square"/>
   </a>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js/pulls">
-      <img src="https://img.shields.io/github/issues-pr/wandou-cc/icode-js?style=flat-square"/>
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git/pulls">
+      <img src="https://img.shields.io/github/issues-pr/shuangquanliu/iGit?style=flat-square"/>
   </a>
-  <a  target="_blank" href="https://github.com/wandou-cc/icode-js">
-    <img src="https://img.shields.io/github/watchers/wandou-cc/icode-js?style=flat-square"/>
+  <a  target="_blank" href="https://github.com/shuangquanliu/iGit.git">
+    <img src="https://img.shields.io/github/watchers/shuangquanliu/iGit?style=flat-square"/>
   </a>
 </p>
 
@@ -39,12 +39,12 @@
 ## 下载
 
 ```sh
-npm install -g icode-js
+npm install -g @igit-js/igit
 // 如果是mac/linux用户请提权安装，win系统用户不需要
-sudo npm i -g icode-js
+sudo npm i -g @igit-js/igit
 ```
 
-在终端中输入`icode --help` 出现使用帮助 那就🎉恭喜您可以使用了
+在终端中输入`igit --help` 出现使用帮助 那就🎉恭喜您可以使用了
 
 ## command命令
 

@@ -1,11 +1,11 @@
 {
-  "name": "icode-js",
+  "name": "igit-js",
   "version": "2.1.3",
   "description": "",
   "keywords": [
     "脚手架",
     "git",
-    "icode-js",
+    "igit-js",
     "simple-git"
   ],
   "author": "",
@@ -15,9 +15,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wandou-cc/icode-js.git"
+    "url": "https://github.com/shuangquanliu/iGit.git"
   },
-  "homepage": "https://github.com/wandou-cc/icode-js.git",
+  "homepage": "https://github.com/shuangquanliu/iGit.git",
   "devDependencies": {
     "lerna": "^5.3.0"
   }

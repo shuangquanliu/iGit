@@ -88,7 +88,6 @@ function registerCommand() {
                     System: ['OS', 'CPU'],
                     Binaries: ['Node', 'Yarn', 'npm'],
                     Browsers: ['Chrome', 'Edge', 'Firefox', 'Safari'],
-                    npmGlobalPackages: ['@icode-js/icode']
                 },
                 {
                     showNotFound: true,
@@ -116,12 +115,12 @@ function registerCommand() {
 
     program.on('--help', () => {
         console.log()
-        icodeLog.info('', `执行 ${colors.cyan(`icode <command> --help`)} 获取指定命令的详细用法`)
+        icodeLog.info('', `执行 ${colors.cyan(`igit <command> --help`)} 获取指定命令的详细用法`)
     })
 
     program.commands.forEach((c) => c.on('--help', () => {
         console.log()
-        icodeLog.info('', `执行 ${colors.cyan(`icode <command> --help`)} 获取指定命令的详细用法`)
+        icodeLog.info('', `执行 ${colors.cyan(`igit <command> --help`)} 获取指定命令的详细用法`)
     }));
 
     // 重写commander 中的unknownOption 方法进行定制化输出错误

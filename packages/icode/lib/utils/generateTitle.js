@@ -16,17 +16,17 @@ exports.generateTitle = async function () {
     let title = `
     _______________ ____________   _________    ____
    /  _/ ____/ __  / __  / ____/  / ____ / /   /  _/  
-   / // /   / / / / / / / _/     / /    / /    / /     ${colors.white(`welcome ${colors.red('❤️')} icode cli`)}
+   / // /   / / / / / / / _/     / /    / /    / /     ${colors.white(`welcome ${colors.red('❤️')} iGit cli`)}
  _/ // /___/ /_/ / /_/ / /__    / /___ / /____/ /__    ${colors.green('</>')}
 /___/\____/\_____ /_____/_____/  /_____/______/_____/    ${colors.green('Current Version: ' + colors.bold.blue(`v${pkg.version}`) )}
-${newPackageVersion ? (('\n' + 'Latest Version: ' + colors.bold.red(newPackageVersion)) + ' 更新请输入: ' + colors.bold.yellow('npm install @icode-js/icode -g')) : ''}
+${newPackageVersion ? (('\n' + 'Latest Version: ' + colors.bold.red(newPackageVersion)) + ' 更新请输入: ' + colors.bold.yellow('npm install @igit-js/igit -g')) : ''}
       `
     clearConsole(title)
 }
 
 async function postAction() {
     const currentVersion = pkg.version
-    const currentPkgName = '@icode-js/icode'
+    const currentPkgName = '@igit-js/igit'
     let newPackageVersion = await getNpmSemverVersion(currentVersion, currentPkgName)
     return newPackageVersion
 }

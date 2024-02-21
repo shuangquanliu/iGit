@@ -1,8 +1,8 @@
 {
-  "name": "@icode-js/icode",
+  "name": "@igit-js/igit",
   "version": "2.1.3",
   "description": "icode命令更加方便的使用git操作管理项目,并支持gitlab/gitee/github以及企业内部gitlab",
-  "author": "chenchao <chenchaowd@gmail.com>",
+  "author": "shuangquan <shuangquanliu@gmail.com>",
   "license": "ISC",
   "keywords": [
     "git",
@@ -10,7 +10,7 @@
     "simple-git"
   ],
   "bin": {
-    "iGit": "./bin/icode.js"
+    "igit": "./bin/icode.js"
   },
   "repository": {
     "type": "git",
@@ -28,8 +28,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@icode-js/icode-git": "file:../icode-git",
-    "@icode-js/icode-shared-utils": "file:../icode-shared-utils",
+    "@icode-js/icode-git": "^2.1.3",
+    "@icode-js/icode-shared-utils": "^2.1.3",
     "axios": "^1.6.2",
     "child_process": "^1.0.2",
     "commander": "^11.1.0",
